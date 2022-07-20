@@ -1,31 +1,33 @@
-# curriculum-databases-projects-template
+# Create tables based on diagram 
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+> In this project, We have used a relational database to create the initial data structure for a hospital database.
+> We have created patients, medical_histories, treatments, invoices, invoice_items and treatment_histories tables.
 
 
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
 
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+- Use [schema_based_on_diagram.sql](./schema_based_on_diagram.sql) to create all tables.
 
 
 ## Authors
 
-👤 **Author1**
+### Author 1
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Toussaint Saraza**
 
-👤 **Author2**
+- GitHub: [@sarazaToussaint](https://github.com/sarazaToussaint)
+- Twitter: [@Toussaint Saraz1](https://twitter.com/ToussaintSaraz1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/toussaintsaraza/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+### Author 2
+
+👤 **Haji Bamsi**
+
+- GitHub: [@Bamsi](https://github.com/bamsi)
+- Twitter: [@Bamsi](https://twitter.com/bamsi)
+- LinkedIn: [@bamsi](https://linkedin.com/in/bamsi)
 
 ## 🤝 Contributing
 
